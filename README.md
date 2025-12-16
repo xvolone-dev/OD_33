@@ -1,5 +1,5 @@
 # OD-33 — Asymptotic Prime Density Estimator
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17930405.svg)](https://doi.org/10.5281/zenodo.17930405)
 OD-33 is a lightweight asymptotic model designed to estimate **local prime density**
 and to **guide integer factorization strategies**.
 
@@ -70,3 +70,4 @@ They will be documented separately.
 OD-33 is a research tool.  
 No cryptographic guarantees are provided.  
 Use responsibly.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17930405.svg)](https://doi.org/10.5281/zenodo.17930405)
